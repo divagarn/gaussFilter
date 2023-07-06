@@ -30,7 +30,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
 
